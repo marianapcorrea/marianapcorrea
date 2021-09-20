@@ -1,4 +1,4 @@
-## Olá! Eu sou a Mariana de Paula!👋 
+## Olá! Eu sou a Mari! 👋 
 #### É um prazer ter você aqui no meu repositório!
 ##
 
