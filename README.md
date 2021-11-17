@@ -1,15 +1,15 @@
 ## Olá! Eu sou a Mari! 👋 
 <div>
-<img width="250" align="right" alt="cute-cthulhu" src="https://github.com/mpcs91/mpcs91/blob/master/cute-cthulhu.png">
+<img width="250" align="right" alt="cute-cthulhu" src="https://github.com/marianapcorrea/marianapcorrea/blob/master/cute-cthulhu.png">
 </div>
 <p> </p>
 <p>É um prazer ter você aqui em meu repositório!</p>
 <p> </p>
 
 <div>
-  <a href="https://github.com/mpcs91">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mpcs91&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpcs91&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/marianapcorrea">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianapcorrea&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapcorrea&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <p>Tecnologias que estudo: </p>
@@ -24,7 +24,7 @@
 <div> 
   <p> Fale comigo! É só clicar em uma das opções abaixo: </p>
   <a href = "mailto:mpcs270391@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt'mpcs270391@gmail.com'></a>
-  <a href="https://www.linkedin.com/in/marianadepaula91/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/marianapcorrea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ![Snake animation](https://github.com/mpcs91/mpcs91/blob/output/github-contribution-grid-snake.svg)
 </div>
