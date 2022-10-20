@@ -1,6 +1,6 @@
 ## Hi! I'm Mari! 👋 
 
-<h6> Não fala inglês? [Clique aqui](https://github.com/marianapcorrea/marianapcorrea) para ver essa página em português.</h6>
+<h6> Não fala inglês? <a href="https://github.com/marianapcorrea/marianapcorrea">Clique aqui</a> para ver essa página em português.</h6>
 <div>
 <img width="250" align="right" alt="cute-cthulhu" src="https://github.com/marianapcorrea/marianapcorrea/blob/master/cute-cthulhu.png">
 </div>
