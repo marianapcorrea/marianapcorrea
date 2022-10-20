@@ -24,7 +24,8 @@
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
- ###
+ </br>
+ </br>
  
 <div> 
   <p> Contact me! You just need to click on one of the options below: </p>
