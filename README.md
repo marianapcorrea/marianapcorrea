@@ -1,12 +1,13 @@
-## Olá! Eu sou a Mari! 👋 
+<h1> Olá! Eu sou a Mari! 👋 </h1>
 
 <h6> Don't speak Portuguese? <a href="https://github.com/marianapcorrea/marianapcorrea/blob/master/README-en.md#hi-im-mari-">Click here</a> to view this page in English.</h6>
+</br>
 <div>
 <img width="250" align="right" alt="cute-cthulhu" src="https://github.com/marianapcorrea/marianapcorrea/blob/master/cute-cthulhu.png">
 </div>
 <p> </p>
 <p>É um prazer ter você aqui em meu repositório!</p>
-<p> </p>
+</br>
 
 <div>
   <a href="https://github.com/marianapcorrea">
@@ -22,8 +23,8 @@
   <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
- ###
+</br>
+</br>
  
 <div> 
   <p> Fale comigo! É só clicar em uma das opções abaixo: </p>
