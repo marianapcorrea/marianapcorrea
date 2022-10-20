@@ -1,4 +1,6 @@
 ## Olá! Eu sou a Mari! 👋 
+
+<h6> Don't speak Portuguese? <a href="https://github.com/marianapcorrea/marianapcorrea">Click here</a> to view this page in English.</h6>
 <div>
 <img width="250" align="right" alt="cute-cthulhu" src="https://github.com/marianapcorrea/marianapcorrea/blob/master/cute-cthulhu.png">
 </div>
@@ -12,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapcorrea&layout=compact&langs_count=7&theme=midnight-purple&hide=shell"/>
 </div>
 <div style="display: inline_block"><br>
-  <p>Tecnologias que estudo: </p>
+  <p>Minhas habilidades: </p>
   <img align="center" alt="Mari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mari-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
