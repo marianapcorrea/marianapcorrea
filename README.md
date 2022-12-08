@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/marianapcorrea">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianapcorrea&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapcorrea&layout=compact&langs_count=7&theme=midnight-purple&hide=shell"/>
+  <img height="180em" src="https://https://github-readme-stats-marianapcorrea.vercel.app//api?username=marianapcorrea&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://https://github-readme-stats-marianapcorrea.vercel.app//api/top-langs/?username=marianapcorrea&layout=compact&langs_count=7&theme=midnight-purple&hide=shell"/>
 </div>
 <div style="display: inline_block"><br>
   <p>Minhas habilidades: </p>
