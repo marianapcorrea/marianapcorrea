@@ -1,4 +1,4 @@
-<h1> Olá! Eu sou a Mari! 👋 </h1>
+<h1> Olá! Eu sou a Mari!! 👋 </h1>
 
 <h6> Don't speak Portuguese? <a href="https://github.com/marianapcorrea/marianapcorrea/blob/master/README-en.md#-hi-im-mari--">Click here</a> to view this page in English.</h6>
 </br>
