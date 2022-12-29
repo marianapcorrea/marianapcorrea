@@ -30,9 +30,14 @@
   <p> Fale comigo! É só clicar em uma das opções abaixo: </p>
   <a href = "mailto:mpcs270391@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt'mpcs270391@gmail.com'></a>
   <a href="https://www.linkedin.com/in/marianapcorrea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+ 
+</br>
+</br>
+![Snake animation](https://github.com/marianapcorrea/marianapcorrea/blob/output/github-contribution-grid-snake.svg)
+</div>
+</br>
+</br>
 [![An image of @marianapcorrea's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marianapcorrea)](https://holopin.io/@marianapcorrea)
 
 
-![Snake animation](https://github.com/marianapcorrea/marianapcorrea/blob/output/github-contribution-grid-snake.svg)
-</div>
+
