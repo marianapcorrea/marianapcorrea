@@ -29,7 +29,8 @@
 <div> 
   <p> Fale comigo! É só clicar em uma das opções abaixo: </p>
   <a href = "mailto:mpcs270391@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt'mpcs270391@gmail.com'></a>
-  <a href="https://www.linkedin.com/in/marianapcorrea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/marianapcorrea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://marianapcorrea.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank" /></a> 
  
 
 ![Snake animation](https://github.com/marianapcorrea/marianapcorrea/blob/output/github-contribution-grid-snake.svg)
