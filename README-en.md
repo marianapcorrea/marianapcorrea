@@ -16,12 +16,36 @@
 </div>
 <div style="display: inline_block"><br>
   <p>My Skills: </p>
-  <img align="center" alt="Mari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mari-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <table>
+    <tr>
+        <td align="center">  
+            <img align="center" alt="Mari-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+        </td>
+        <td align="center">  
+            <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        </td>
+        <td align="center">  
+            <img align="center" alt="Mari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        </td>
+        <td align="center">  
+            <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        </td align="center">
+        <td>  
+            <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        </td>
+        <td align="center">  
+            <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><span>Typescript</span></td>
+        <td align="center"><span>Javascript</span></td>
+        <td align="center"><span>React</span></td>
+        <td align="center"><span>Python</span></td>
+        <td align="center"><span>HTML</span></td>
+        <td align="center"><span>CSS</span>
+</table>
+
 </div>
 
  </br>
@@ -34,7 +58,6 @@
   <a href="https://marianapcorrea.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank" /></a> 
  
 
-![Snake animation](https://github.com/marianapcorrea/marianapcorrea/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 [![An image of @marianapcorrea's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marianapcorrea)](https://holopin.io/@marianapcorrea)
