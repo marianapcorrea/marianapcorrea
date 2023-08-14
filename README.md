@@ -9,7 +9,7 @@
 </div>
 
 <div> 
-<p>Sou a Mariana, uma apaixonada desenvolvedora Front-End/Full-Stack em transição de carreira. Minha jornada diversificada me trouxe até aqui, onde combino HTML5, CSS3, JavaScript e React para criar experiências digitais cativantes. Estou empenhada em contribuir para o sucesso das equipes e em aprimorar constantemente minhas habilidades.</p>
+<p>Sou a Mariana, uma apaixonada desenvolvedora Front-End/Full-Stack em transição de carreira. Minha jornada diversificada me trouxe até aqui, onde combino HTML5, CSS3, JavaScript e React para criar experiências digitais cativantes.</p>
 <p>Venha bater um papo comigo! Será um prazer conversar com você!</p>
   <p> É só clicar em uma das opções abaixo: </p>
   <a href = "mailto:mpcs270391@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt'mpcs270391@gmail.com'></a>
