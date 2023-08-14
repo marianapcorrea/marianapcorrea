@@ -9,7 +9,7 @@
 <p> I'm very happy to have you here in my repository!</p>
 </br>
 <div>
-<p>I'm Mariana, a passionate Front-End/Full-Stack developer in career transition. My diverse journey has brought me here, where I blend HTML5, CSS3, JavaScript, and React to craft captivating digital experiences. I'm committed to contributing to team success and continually enhancing my skills.</p>
+<p>I'm Mariana, a passionate Front-End/Full-Stack developer in career transition. My diverse journey has brought me here, where I blend HTML5, CSS3, JavaScript, and React to craft captivating digital experiences. </p>
 <p>Come chat with me! It would be a pleasure to connect with you!</p>
   <p>You just need to click on one of the options below: </p>
   <a href = "mailto:mpcs270391@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt'mpcs270391@gmail.com'></a>
