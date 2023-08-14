@@ -2,6 +2,8 @@
 
 <h6> Don't speak Portuguese? <a href="https://github.com/marianapcorrea/marianapcorrea/blob/master/README-en.md#-hi-im-mari--:~:text=Blame-,Hi!%20I%27m%20Mari!,-N%C3%A3o%20fala%20ingl%C3%AAs">Click here</a> to view this page in English.</h6>
 </br>
+<p>Olá! Sou a Mariana, uma apaixonada desenvolvedora Front-End/Full-Stack em transição de carreira. Minha jornada diversificada me trouxe até aqui, onde combino HTML5, CSS3, JavaScript e React para criar experiências digitais cativantes. Estou empenhada em contribuir para o sucesso das equipes e em aprimorar constantemente minhas habilidades.</p>
+<p>Venha bater um papo comigo! Será um prazer conversar com você!</p>
 <div>
 <img width="250" align="right" alt="cute-cthulhu" src="https://github.com/marianapcorrea/marianapcorrea/blob/master/cute-cthulhu.png">
 </div>
