@@ -1,6 +1,6 @@
 <h1> Hi! I'm Mari! 👋 </h1>
 
-<h6> Não fala inglês? <a href="https://github.com/marianapcorrea">Clique aqui</a> para ver essa página em português.</h6>
+<h6> Não fala inglês? <a href="https://github.com/marianapcorrea/marianapcorrea/blob/master/README.md">Clique aqui</a> para ver essa página em português.</h6>
 </br>
 <div>
 <img width="250" align="right" alt="cute-cthulhu" src="https://github.com/marianapcorrea/marianapcorrea/blob/master/cute-cthulhu.png">
