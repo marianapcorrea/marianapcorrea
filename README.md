@@ -9,13 +9,23 @@
 </div>
 
 <div> 
-<p>Sou a Mariana, uma apaixonada desenvolvedora Front-End/Full-Stack em transição de carreira. Minha jornada diversificada me trouxe até aqui, onde combino HTML5, CSS3, JavaScript e React para criar interfaces e experiências digitais cativantes.</p>
+<p>Olá, eu sou Mariana, uma desenvolvedora Front-End/Full-Stack apaixonada em transição de carreira. Minha jornada diversificada me trouxe até aqui, onde combino HTML5, CSS3, JavaScript, TypeScript e React para criar interfaces e experiências digitais cativantes.</p>
 
-<p>Atualmente, estou finalizando o curso de Desenvolvimento Web oferecido pela Trybe, onde também atuei como Monitora Summer de Instrução de Front End.</p> 
+<p>Atualmente, estou finalizando o curso de Desenvolvimento Web oferecido pela Trybe, onde também atuei como Monitora Summer de Instrução de Front End.</p>
 
-<p>Atuo também como desenvolvedora front-end voluntária na ONG Palavras de Paz.</p>
+<p>Além disso, trabalho como desenvolvedora front-end voluntária na ONG Palavras de Paz.</p>
 
-<p>Venha bater um papo comigo! Será um prazer conversar com você!</p>
+<h3>Aqui estão alguns dos meus principais destaques:</h3>
+<ul>
+
+<li>Apaixonada por criar aplicativos web fáceis de usar e visualmente atraentes.</li>
+<li>Habilidosa em HTML5, CSS3, JavaScript, TypeScript e React.</li>
+<li>Comprometida com o aprendizado e aprimoramento contínuos.</li>
+<li>Comprometida em usar minhas habilidades para causar um impacto positivo no mundo.</li>
+<li>Estou animada para ver o que o futuro reserva e ansiosa para usar minhas habilidades para fazer a diferença.</li>
+</ul>
+
+<p>Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida ou quiser saber mais sobre o meu trabalho.</p>
   <p> É só clicar em uma das opções abaixo: </p>
   <a href = "mailto:mpcs270391@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt'mpcs270391@gmail.com'></a>
   <a href="https://www.linkedin.com/in/marianapcorrea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
