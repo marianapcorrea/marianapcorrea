@@ -9,7 +9,12 @@
 </div>
 
 <div> 
-<p>Sou a Mariana, uma apaixonada desenvolvedora Front-End/Full-Stack em transição de carreira. Minha jornada diversificada me trouxe até aqui, onde combino HTML5, CSS3, JavaScript e React para criar experiências digitais cativantes.</p>
+<p>Sou a Mariana, uma apaixonada desenvolvedora Front-End/Full-Stack em transição de carreira. Minha jornada diversificada me trouxe até aqui, onde combino HTML5, CSS3, JavaScript e React para criar interfaces e experiências digitais cativantes.</p>
+
+<p>Atualmente, estou finalizando o curso de Desenvolvimento Web oferecido pela Trybe, onde também atuei como Monitora Summer de Instrução de Front End.</p> 
+
+<p>Atuo também como desenvolvedora front-end voluntária na ONG Palavras de Paz.</p>
+
 <p>Venha bater um papo comigo! Será um prazer conversar com você!</p>
   <p> É só clicar em uma das opções abaixo: </p>
   <a href = "mailto:mpcs270391@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt'mpcs270391@gmail.com'></a>
@@ -19,7 +24,7 @@
 </br>
 
 <div style="display: inline_block"><br>
-  <p>Minhas habilidades: </p>
+  <p> Minhas habilidades: </p>
 <table>
     <tr>
         <td align="center">  
