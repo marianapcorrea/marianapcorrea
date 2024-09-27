@@ -9,20 +9,19 @@
 </div>
 
 <div> 
-<p>Olá, eu sou Mariana, uma desenvolvedora Front-End/Full-Stack apaixonada em transição de carreira. Minha jornada diversificada me trouxe até aqui, onde combino HTML5, CSS3, JavaScript, TypeScript e React para criar interfaces e experiências digitais cativantes.</p>
+<p>Olá, eu sou Mariana, uma desenvolvedora Front-End/Full-Stack. Minha jornada diversificada me trouxe até aqui, onde combino HTML5, CSS3, JavaScript, TypeScript e React para criar interfaces eficientes e experiências digitais cativantes.</p>
 
-<p>Atualmente, estou finalizando o curso de Desenvolvimento Web oferecido pela Trybe, onde também atuei como Monitora Summer de Instrução de Front End.</p>
+<p>Atualmente trabalho como desenvolvedora Front-End na Sillion/Sitrack. </p>
 
-<p>Além disso, trabalho como desenvolvedora front-end voluntária na ONG Palavras de Paz.</p>
+<p>Além disso, já trabalhei como monitora Front End na escola de tecnologia Trybe e como desenvolvedora front-end voluntária na ONG Palavras de Paz.</p>
 
-<h3>Aqui estão alguns dos meus principais destaques:</h3>
+<h3>Aqui estão algumas informações sobre mim:</h3>
 <ul>
-
 <li>Apaixonada por criar aplicativos web fáceis de usar e visualmente atraentes.</li>
 <li>Habilidosa em HTML5, CSS3, JavaScript, TypeScript e React.</li>
+<li>Conhecimentos utilizando diversas bibliotecas, como Next.js, Bootstrap, Zustand, Axios, SWR, Next.intl, Storybook, etc. </li>
 <li>Comprometida com o aprendizado e aprimoramento contínuos.</li>
-<li>Comprometida em usar minhas habilidades para causar um impacto positivo no mundo.</li>
-<li>Estou animada para ver o que o futuro reserva e ansiosa para usar minhas habilidades para fazer a diferença.</li>
+<li>Figurinha recorrente em diversos eventos de tecnologia, presenciais ou online.</li>  
 </ul>
 
 <p>Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida ou quiser saber mais sobre o meu trabalho.</p>
