@@ -1,27 +1,27 @@
-<h1> Hi! I'm Mari! 👋 </h1>
-
-<h6> Não fala inglês? <a href="https://github.com/marianapcorrea">Clique aqui</a> para ver essa página em português.</h6>
+<h1> Hi! I'm Mari!! 👋 </h1>
+<h6> Don't speak Portuguese? <a href="https://github.com/marianapcorrea/marianapcorrea/blob/master/README-en.md#-hi-im-mari--:~:text=Blame-,Hi!%20I%27m%20Mari!,-N%C3%A3o%20fala%20ingl%C3%AAs">Click here</a> to view this page in English.</h6>
 </br>
+
+<p>It’s a pleasure to have you here in my repository!</p>
+
 <div>
 <img width="250" align="right" alt="cute-cthulhu" src="https://github.com/marianapcorrea/marianapcorrea/blob/master/cute-cthulhu.png">
 </div>
-<p> </p>
-<p> I'm very happy to have you here in my repository!</p>
-</br>
-<div>
-<p>I'm Mariana, a passionate Front-End/Full-Stack developer currently transitioning careers. My diverse journey has led me to this point, where I combine HTML5, CSS3, JavaScript, and React to create captivating digital interfaces and experiences. </p>
 
-<p>I'm currently finishing the Web Development course offered by Trybe, where I also worked as a Summer Front-End Instruction Monitor.</p>
+<div> 
+<p>Hello, I'm Mariana, a Front-End/Full-Stack developer. My diverse journey has brought me here, where I combine HTML5, CSS3, JavaScript, TypeScript, and React to create efficient interfaces and captivating digital experiences.</p>
 
-<p>In addition, I volunteer as a front-end developer for the NGO Palavras de Paz.</p>
+<p>Currently, I work as a Front-End developer at Sillion/Sitrack.</p>
 
-<h3>Here are some key highlights about me:</h3>
+<p>Additionally, I've worked as a Front-End monitor at the technology school Trybe and as a volunteer front-end developer at the NGO Palavras de Paz.</p>
+
+<h3>Here are some facts about me:</h3>
 <ul>
 <li>Passionate about creating user-friendly and visually appealing web applications.</li>
-<li>Skilled in HTML5, CSS3, JavaScript, and React.</li>
-<li>Dedicated to continuous learning and improvement.</li>
-<li>Committed to using my skills to make a positive impact in the world.</li>
-<li>I'm excited to see what the future holds and I'm looking forward to using my skills to make a difference.</li>
+<li>Skilled in HTML5, CSS3, JavaScript, TypeScript, and React.</li>
+<li>Knowledgeable in various libraries, such as Next.js, Bootstrap, Zustand, Axios, SWR, Next.intl, Storybook, etc.</li>
+<li>Committed to continuous learning and improvement.</li>
+<li>A regular attendee at various technology events, both in-person and online.</li>  
 </ul>
 
 <p>Feel free to reach out to me if you have any questions or want to learn more about my work.</p>
